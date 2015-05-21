@@ -1,0 +1,1 @@
+meteor run -p 4444 --settings config/development/settings.json

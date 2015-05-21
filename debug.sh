@@ -1,0 +1,1 @@
+meteor debug -p 4444 --settings config/development/settings.json --web-port 9090
